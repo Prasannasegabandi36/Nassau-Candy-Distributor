@@ -16,8 +16,7 @@ The dashboard converts raw order and shipment data into interactive insights suc
 
 ## 🌐 Live Dashboard
 
-🔗 **Streamlit App:** https://supply-chain-shipping-analysis-nmveh3kpdjkmjztn73ks3n.streamlit.app
-
+🔗 **Streamlit App:** https://candy-shipping-analysis.streamlit.app/
 ---
 
 ## 📌 Project Objective
