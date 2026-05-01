@@ -164,7 +164,7 @@ Lead Time = Ship Date - Order Date
 ```text
 Nassau-Candy-Shipping-Analysis/
 │
-├── app.py                         # Streamlit dashboard application
+├── candy_app.py                         # Streamlit dashboard application
 ├── candy_train_data.ipynb          # Data analysis notebook
 ├── Nassau Candy Distributor.csv    # Dataset
 ├── requirements.txt                # Required Python packages
@@ -238,7 +238,7 @@ The final dashboard provides a clear, interactive, and business-friendly solutio
 
 ## 👩‍💻 Author
 
-**Prasanna**  
+**Prasanna rani**  
 Data Science / Data Analytics Project
 
 ---
